@@ -1,15 +1,16 @@
 {
-    "Group": "Example",
-    "Name": "ExamplePlugin",
-    "Version": "0.0.2",
-    "Description": "An example plugin for HyTale!",
+    "Group": "HytaleMagic",
+    "Name": "HytaleMagicPlugin",
+    "Version": "0.0.0",
+    "Description": "A Magical plugin for HyTale!",
     "Authors": [
         {
-            "Name": "It's you!"
+            "Name": "ColbyAQZ"
         }
     ],
-    "Website": "example.org",
-    "ServerVersion": "2026.02.17-255364b8e",
+
+    "Website": "https://github.com/ColbyEB/HytaleMagic",
+    "ServerVersion": "0.0.0",
     "Dependencies": {
         
     },
@@ -17,6 +18,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
+    "Main": "org.example.plugin.HytaleMagic",
     "IncludesAssetPack": true
 }
